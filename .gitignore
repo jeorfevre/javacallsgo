@@ -1,0 +1,8 @@
+log.txt
+.gradle/
+gradle
+build/libs/
+build/distributions/
+build/scripts
+build/classes
+build/tmp

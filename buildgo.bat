@@ -1,0 +1,1 @@
+go build -buildmode=c-shared -o libso/app.so app.go
